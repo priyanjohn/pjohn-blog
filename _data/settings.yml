@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Priyan
 logo:
-author: themefisher
+author: pjohn
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: priyan.mw@gmail.com
+phone: +91 9496461159
+address: RMZ Millenia, Perungudi, Chennai, India
+copyright: Copyright &copy; 2023 Designed & Developed by pjohn
 
 menu:
   - { name: About, link: "/about" }
@@ -123,24 +123,24 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Masters in Information Technology,
+      date: "2019",
+      organization: "Vellore Institute of Technology",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Bachelors in Mathematics and Computer Science,
+      date: "2015",
+      organization: "MG University",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: Higher Secondary Certificate,
+      date: "2012",
+      organization: "DHSE Kerala",
     }
   - {
       name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      date: "2010",
+      organization: "HSE Kerala",
     }
 
 #-------------------------------
